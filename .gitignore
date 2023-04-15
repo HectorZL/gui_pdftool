@@ -1,0 +1,6 @@
+# all documents pdf
+*.pdf
+
+
+# add a folder called guitoolpdf
+guitoolpdf/
